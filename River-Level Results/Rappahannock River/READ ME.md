@@ -1,1 +1,1 @@
-Figures for Rappahannock River ($n\_R = 10$)
+Figures for the Rappahannock River ($n\_R = 10$)
