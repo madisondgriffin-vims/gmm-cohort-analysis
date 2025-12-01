@@ -1,1 +1,1 @@
-Figures for Chesapeake Bay Mainstem ($n\_R = 2$)
+Figures for the Chesapeake Bay Mainstem ($n\_R = 2$)
