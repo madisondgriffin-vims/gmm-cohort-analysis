@@ -1,1 +1,1 @@
-Figures for James River ($n\_R = 31$).
+Figures for the James River ($n\_R = 31$).
